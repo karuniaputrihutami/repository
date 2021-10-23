@@ -8,6 +8,6 @@ repository untuk belajar kedepannya
 5. mulai bikin project
 
 
-<!-- List Project yang sudah selesai -->
+ List Project yang sudah selesai 
 1. Toko kakau (selesai)
 2. Daftar menu makanan (tinggal finish)
